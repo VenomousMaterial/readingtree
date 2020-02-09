@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/VenomousMaterial/readingtree/issues"
   },
-  "homepage": "https://VenomousMaterial.github.io/readingtree",
+  "homepage": "https://venomousmaterial.github.io/readingtree/",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
